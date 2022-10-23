@@ -5,16 +5,19 @@
 body {
     margin: 0px;
     background-attachment: fixed;
-    background: white;
 }
 
 nav {
     display: flex;
     background-color: rgb(75, 36, 36);
+    box-shadow: 0px 5px 10px 0px rgb(75, 36, 36);
+    opacity: 0.85;
+    z-index: 100;
     overflow: hidden;
 }
 
 #python-slides {
+    background: white;
     height: 250px;
     width: 250px;
 }
@@ -158,6 +161,7 @@ footer a {
   }
   
   .mmCard {
+    background-color: white;
     width: 560px;
     height: 315px;
     border-radius: 3px;
