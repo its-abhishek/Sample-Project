@@ -232,7 +232,7 @@ footer a {
   }
 
   /* loader page start here */
-   *:before, *:after {
+   /* *:before, *:after {
     box-sizing: border-box;
   }
   .container {
@@ -393,4 +393,4 @@ footer a {
     100% {
       transform: translate3d(-50%, -50%, 0) scaleX(1);
     }
-  }
+  } */
