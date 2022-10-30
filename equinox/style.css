@@ -1,6 +1,8 @@
 body {
     background: rgba(255, 255, 255, 1);
     margin: 0;
+    font-family: 'Inter';
+    font-style: normal;
 }
 
 .contaner {
@@ -13,14 +15,14 @@ body {
 }
 
 nav{
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 400;
-    font-size: 22px;
+    font-size: 17px;
     line-height: 27px;
 }
 
 nav .ul{
+    position: absolute;
+    left: 700px;
     display: flex;
     align-items: center;
     list-style-type: none;
@@ -30,4 +32,13 @@ nav .ul{
 
 nav .ul li{
     padding: 0 12px;
+}
+
+nav button {
+    width: 170px;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 500;
+    border-color: #0D48E0;
 }
