@@ -185,8 +185,36 @@ nav button {
     font-weight: bold;
 }
 
-.services .box-1 {
-    width: 100px;
-    height: 50px;
-    color: #0D48E0;
+.box-1 {
+    position: relative;
+    top: 150px;
+    left: 150px;
+    width: 250px;
+    height: 350px;
+    background: #0D48E0;
+    border-radius: 10px;
+}
+
+.box-2 {
+    position: relative;
+    top: -200px;
+    left: 570px;
+    width: 250px;
+    height: 350px;
+    background: #0D48E0;
+    border-radius: 10px;
+}
+
+.box-3 {
+    position: relative;
+    top: -550px;
+    left: 970px;
+    width: 250px;
+    height: 350px;
+    background: #0D48E0;
+    border-radius: 10px;
+}
+
+i {
+    color: black;
 }
