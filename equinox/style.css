@@ -216,5 +216,53 @@ nav button {
 }
 
 i {
-    color: black;
+    position: relative;
+    top: 100px;
+    left: 50px;
+    color: white;
+}
+
+.box-1-text {
+    position: relative;
+    top: -520px;
+    left: 180px;
+    font-size: 20px;
+}
+
+.box-1-sub-text {
+    position: relative;
+    top: -560px;
+    left: 180px;
+    width: 220px;
+    font-size: 14px;
+}
+
+.box-2-text {
+    position: relative;
+    top: -540px;
+    left: 600px;
+    font-size: 20px;
+}
+
+.box-2-sub-text {
+    position: relative;
+    top: -610px;
+    left: 600px;
+    width: 220px;
+    font-size: 14px;
+}
+
+.box-3-text {
+    position: relative;
+    top: -560px;
+    left: 1000px;
+    font-size: 20px;
+}
+
+.box-3-sub-text {
+    position: relative;
+    top: -660px;
+    left: 1000px;
+    width: 220px;
+    font-size: 14px;
 }
