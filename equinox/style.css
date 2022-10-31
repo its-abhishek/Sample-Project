@@ -5,6 +5,10 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
+body::-webkit-scrollbar {
+    display: none;
+}
+
 .contaner {
     background-attachment: fixed;
     color: white;
