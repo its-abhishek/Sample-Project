@@ -172,7 +172,7 @@ nav button {
 .ser-text {
     position: relative;
     top: 50px;
-    left: 50px;
+    left: 70px;
     color: #0D48E0;
     font-size: 40px;
 }
@@ -180,7 +180,7 @@ nav button {
 .mainText {
     position: relative;
     top: 70px;
-    left: 50px;
+    left: 70px;
     font-size: 40px;
     font-weight: bold;
 }
